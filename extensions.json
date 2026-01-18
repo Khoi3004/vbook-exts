@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "AleshaOnOn",
+    "description": "Kho truyện của Alesha - Mod Ỏn Ỏn"
+  },
+  "data": [
+    {
+      "name": "Xtruyen",
+      "author": "AleshaOnOn",
+      "path": "https://raw.githubusercontent.com/Khoi3004/vbook-exts/main/xtruyen/plugin.zip",
+      "version": 1,
+      "source": "https://xtruyen.vn",
+      "icon": "https://xtruyen.vn/favicon.ico",
+      "description": "Đọc truyện từ Xtruyen",
+      "type": "chinese_novel",
+      "locale": "vi_VN"
+    }
+  ]
+}
