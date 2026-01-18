@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "author": "AleshaOnOn",
+    "author": "Khoi3004",
     "description": ""
   },
   "data": [
     {
       "name": "Xtruyen",
       "author": "Khoi3004",
-      "path": "https://raw.githubusercontent.com/Khoi3004/vbook-exts/main/xtruyen/plugin.zip",
+      "path": "https://raw.githubusercontent.com/Khoi3004/vbook-exts/main/plugin.zip",
       "version": 1,
       "source": "https://xtruyen.vn",
       "icon": "https://xtruyen.vn/favicon.ico",
